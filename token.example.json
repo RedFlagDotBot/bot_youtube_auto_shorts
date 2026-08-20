@@ -1,11 +1,11 @@
 {
-  "token": "YOUR_ACCESS_TOKEN_HERE",
-  "refresh_token": "YOUR_REFRESH_TOKEN_HERE",
+  "token": "VOTRE_ACCESS_TOKEN_ICI",
+  "refresh_token": "VOTRE_REFRESH_TOKEN_ICI",
   "token_uri": "https://oauth2.googleapis.com/token",
-  "client_id": "YOUR_CLIENT_ID_HERE",
-  "client_secret": "YOUR_CLIENT_SECRET_HERE",
+  "client_id": "VOTRE_CLIENT_ID_ICI",
+  "client_secret": "VOTRE_CLIENT_SECRET_ICI",
   "scopes": ["https://www.googleapis.com/auth/youtube.upload"],
   "universe_domain": "googleapis.com",
   "account": "",
-  "expiry": "YYYY-MM-DDTHH:MM:SSZ"
+  "expiry": "AAAA-MM-JJTHH:MM:SSZ"
 }
