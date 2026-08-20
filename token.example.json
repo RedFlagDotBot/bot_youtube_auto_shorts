@@ -1,1 +1,11 @@
-{"token": "_Ton TOKEN_", "refresh_token": "-Permet de renouveller ton token (Ton token de renouvellement)", "token_uri": "https://oauth2.googleapis.com/token", "client_id": "_Ton clien ID_", "client_secret": "_Le secret de ton client_", "scopes": ["https://www.googleapis.com/auth/youtube.upload"], "universe_domain": "googleapis.com", "account": "", "expiry": "_Date d'exipation de ton token_"}
+{
+  "token": "YOUR_ACCESS_TOKEN_HERE",
+  "refresh_token": "YOUR_REFRESH_TOKEN_HERE",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "client_id": "YOUR_CLIENT_ID_HERE",
+  "client_secret": "YOUR_CLIENT_SECRET_HERE",
+  "scopes": ["https://www.googleapis.com/auth/youtube.upload"],
+  "universe_domain": "googleapis.com",
+  "account": "",
+  "expiry": "YYYY-MM-DDTHH:MM:SSZ"
+}
