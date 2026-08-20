@@ -1,0 +1,20 @@
+# Local credentials - never commit real secrets
+client_secret.json
+token.json
+credentials.json
+
+# Environment files
+.env
+.env.*
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Local / temporary files
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
